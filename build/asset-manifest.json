@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ecd60882.chunk.css",
+    "main.js": "/static/js/main.1e42813c.chunk.js",
+    "main.js.map": "/static/js/main.1e42813c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6d868239.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6d868239.js.map",
+    "static/js/2.eaef9c69.chunk.js": "/static/js/2.eaef9c69.chunk.js",
+    "static/js/2.eaef9c69.chunk.js.map": "/static/js/2.eaef9c69.chunk.js.map",
+    "static/js/3.86e0af80.chunk.js": "/static/js/3.86e0af80.chunk.js",
+    "static/js/3.86e0af80.chunk.js.map": "/static/js/3.86e0af80.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.ecd60882.chunk.css.map": "/static/css/main.ecd60882.chunk.css.map",
+    "static/js/2.eaef9c69.chunk.js.LICENSE.txt": "/static/js/2.eaef9c69.chunk.js.LICENSE.txt",
+    "static/media/kodama_icon.8bbbda2d.jpeg": "/static/media/kodama_icon.8bbbda2d.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6d868239.js",
+    "static/js/2.eaef9c69.chunk.js",
+    "static/css/main.ecd60882.chunk.css",
+    "static/js/main.1e42813c.chunk.js"
+  ]
+}
